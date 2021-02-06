@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-23T21:17:40 EST" name="Default suite" finished-at="2021-01-23T21:18:10 EST" duration-ms="29633">
+    <groups>
+    </groups>
+    <test started-at="2021-01-23T21:17:40 EST" name="Default test" finished-at="2021-01-23T21:18:10 EST" duration-ms="29633">
+      <class name="com.psiexams.businessscripts.Registration">
+        <test-method is-config="true" signature="launchapp()[pri:0, instance:com.psiexams.businessscripts.Registration@223aa2f7]" started-at="2021-01-23T21:17:40 EST" name="launchapp" finished-at="2021-01-23T21:17:47 EST" duration-ms="7368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="ReturningUsers()[pri:0, instance:com.psiexams.businessscripts.Registration@223aa2f7]" started-at="2021-01-23T21:17:47 EST" name="ReturningUsers" finished-at="2021-01-23T21:18:10 EST" duration-ms="22230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReturningUsers -->
+      </class> <!-- com.psiexams.businessscripts.Registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
